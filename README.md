@@ -3,8 +3,8 @@ Welcome to the MIT Informatics Tournament 2025 repository! This repository conta
 # 📌 About the Tournament
 The MIT Informatics Tournament is a prestigious programming competition that brings together talented coders to solve complex algorithmic problems. The problems range from beginner-friendly to advanced levels, covering topics such as:
 
-# Data Structures & Algorithms
-# Graph Theory & Dynamic Programming
-# Computational Geometry
-# Bit Manipulation & Number Theory
-# AI & Machine Learning Challenges
+Data Structures & Algorithms
+Graph Theory & Dynamic Programming
+Computational Geometry
+Bit Manipulation & Number Theory
+AI & Machine Learning Challenges
